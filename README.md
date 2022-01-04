@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sushant-Padha
-- 👀 I’m interested in python, powershell, shell, linux, basic HTML5 and CSS, algorithms and data structures, machine learning
+- 👀 I’m interested in python, julia, powershell, shell, linux, basic JS, HTML5 and CSS, algorithms and data structures, machine learning
 - 🌱 I’m currently learning algorithms and data structures (along with school)
+- 📖 Working on a timetable creator written in python and julia!
 - 💞️ I’m looking to collaborate on python projects, shell projects and simple useful scripts
 - 📫 How to reach me via email sushant.padha@gmail.com
 
