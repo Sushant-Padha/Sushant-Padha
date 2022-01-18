@@ -7,23 +7,7 @@ I am interested in algorithmic programming and problem solving through programmi
 
 Also, Python is the best (scripting) language, OOP is great and tabs are better than spaces!
 
-# Technologies
-
-Languages I have learnt:
-- [Python](https://github.com/search?l=Python&q=user%3ASushant-Padha)
-- [Julia](https://github.com/search?l=Julia&q=user%3ASushant-Padha)
-- [PowerShell](https://github.com/search?l=PowerShell&q=user%3ASushant-Padha)
-- [mcfunction](https://github.com/search?l=mcfunction&q=user%3ASushant-Padha) (minecraft datapack programming language)
-- [AutoHotKey](https://github.com/search?l=AutoHotkey&q=user%3ASushant-Padha)
-- (basic) JS, HTML, CSS
-
-Tools that I use frequently:
-- Visual Studio Code as my primary code editor
-- Git for version control
-- GitHub Actions for CI/CD
-
-More stuff that I intend to learn:
-- [ ] Machine Learning
+Visit [sushant-padha.github.io](https://sushant-padha.github.io/).
 
 # Projects
 
