@@ -2,8 +2,9 @@ name: Generate Metric Data
 
 on:
   workflow_dispatch: # execute manually
-  schedule: # execute every 1 day(s)
-    - cron: "0 0 */1 * *"
+    push: {branches: ["master", "main"]}
+    schedule: # execute every 1 day(s)
+      - cron: "0 0 */1 * *"
 
 jobs:
 
@@ -44,7 +45,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
@@ -58,4 +59,4 @@ jobs:
       - name: Github metrics
         uses: lowlighter/metrics@master
         with:
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
