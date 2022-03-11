@@ -69,9 +69,8 @@ class Me(Person):
 <a href="https://github.com/Sushant-Padha">
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Padha&theme=radical" />
-<img height="180em" src="profile-summary-card-output/monokai/3-stats.svg" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Sushant-Padha&count_private=true&show_icons=true&theme=radical"/>
+ 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Padha&layout=compact&langs_count=8&hide=mcfunction,Batchfile&theme=radical"/>
 
 <img width="100%" src="profile-summary-card-output/monokai/0-profile-details.svg" />
