@@ -66,6 +66,7 @@ class Me(Person):
 
 ### Analytics ⚙️
 
+<p>
 <a href="https://github.com/Sushant-Padha">
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Padha&theme=radical" />
@@ -78,7 +79,7 @@ class Me(Person):
 <!-- <img width="100%" src="https://github.com/Sushant-Padha/Sushant-Padha/blob/main/github-metrics.svg" /> -->
 
 <!-- ![Metrics](https://github.com/Sushant-Padha/Sushant-Padha/blob/main/metrics.plugin.achievements.svg) -->
-</a>
+</a></p>
 
 ### Links 🤝
 
