@@ -60,6 +60,8 @@ class Me(Person):
 
 - [TimetableSolver.jl](https://github.com/Sushant-Padha/TimetableSolver.jl): Julia package to create a timetable schedule, using [ConstraintSolver.jl](https://github.com/Wikunia/ConstraintSolver.jl) and [JuMP](https://github.com/jump-dev/JuMP.jl).
 
+- [InsectOverflow](https://github.com/legosiv/valiant-valkyries): 2-D web game based on the classic Snake game with some unexpected twists. Official repo for `valiant-valkyries` for Python Discord Code Jam 2022.
+
 - [tictactoe](https://github.com/Sushant-Padha/tictactoe): Simple console-based tictactoe game written in Python.
 
 - [vignere-cipher](https://github.com/Sushant-Padha/vignere-cipher): Basic implementation of a [Vigenère Cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) in Python.
