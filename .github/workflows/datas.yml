@@ -3,7 +3,7 @@ name: Generate Metric Data
 on:
   workflow_dispatch:  # execute manually
   schedule:  # execute every 1 day(s)
-    - cron: "0 0 */1 * *"
+    - cron: "0 0 * * 0"
 
 jobs:
 
